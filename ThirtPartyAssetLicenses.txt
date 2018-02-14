@@ -1,0 +1,12 @@
+Third Party Asset List:
+
+1. Dino Model made by Steren Giannini from Google Poly:
+	https://poly.google.com/view/1upPlf3AMXQ
+2. Earth Model from Unity Asset Store "Low Poly Earth(Free)"
+
+3. Cosmetics and Viusual Effects: by Keijiro Takahashi
+	KinoTube(https://github.com/keijiro/KinoTube)
+	KinoGlitch(https://github.com/keijiro/KinoGlitch)
+4. Retro Monitor Model made by Google:
+	https://poly.google.com/view/0JxgahNBrkL
+	
